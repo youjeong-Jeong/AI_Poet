@@ -1,8 +1,8 @@
 from dotenv import load_dotenv
 load_dotenv()
 
-from langchain_openai import ChatOpenAI
-chat_model = ChatOpenAI()
+# from langchain_openai import ChatOpenAI
+# chat_model = ChatOpenAI()
 
 # subject = "AI"
 # result = chat_model.invoke(subject + "에 대한 시를 써줘")
